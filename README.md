@@ -2,7 +2,9 @@
 Round 2: Data Cleaning and Solution Planning
 
 Solution Planning:
+
   Exploratory Data Analysis (EDA)
+  
   Descriptive Analysis
   Distribution Analysis
   Data Visualization
